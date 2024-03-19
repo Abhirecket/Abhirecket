@@ -17,7 +17,9 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abhishek-kumar-kushwaha-3788a4179/)
 
-
+<h3 align="left">FOR VIVADO PROJECTS:-</h3> First clone the respective project and follow the below path for rtl and tb. 
+<h3 align="left">RTL PATH:-</h3> project_name.src/source_1/new/project_name.v
+<h3 align="left">TB PATH:-</h3> project_name.src/sim_1/new/project_name.v
 
 
 <h3 align="left">Languages and Tools:</h3>
