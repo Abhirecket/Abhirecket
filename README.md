@@ -18,9 +18,7 @@
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abhishek-kumar-kushwaha-3788a4179/)
 
 
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left"> VERILOG, SV, CHISEL, SCALA, PYTHON</h3>
