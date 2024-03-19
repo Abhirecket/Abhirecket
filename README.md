@@ -17,4 +17,4 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abhishek-kumar-kushwaha-3788a4179/)
 
-- ⚡ Fun fact **I think i am funny**
+  
