@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Git](https://github.com/Abhirecket)
 
-- 📝 I regularly write articles on [collegeofvlsi](https://collegeofvlsi.com/)
+- 📝 I regularly write articles on [collegeofvlsi](https://collegeofvlsi.com/) WIP
 
 - 📫 How to reach me **abhirecket0001@gmail.com**
 
