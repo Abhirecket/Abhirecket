@@ -18,8 +18,8 @@
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/abhishek-kumar-kushwaha-3788a4179/)
 
 <h3 align="left">FOR VIVADO PROJECTS:-</h3> First clone the respective project and follow the below path for rtl and tb. 
-<h3 align="left">RTL PATH:-</h3> [project_name.src/source_1/new/project_name.v]   Ex. for  programmable_sequence_detector rtl file location is:-"programmable_sequence_detector\programmable_sequence_detector.srcs\sources_1\new\programmable_sequence_detector.v"
-<h3 align="left">TB PATH:-</h3> [project_name.src/sim_1/new/project_name_tb.v] Ex. for  programmable_sequence_detector tb file location is:-"programmable_sequence_detector\programmable_sequence_detector.srcs\sim_1\new\programmable_sequence_detector_tb.v"
+<h3 align="left">RTL PATH:-</h3> [project_name.src/source_1/new/project_name.v]   Ex. for  programmable_sequence_detector rtl file location is:-"programmable_sequence_detector/programmable_sequence_detector.srcs/sources_1/new/programmable_sequence_detector.v"
+<h3 align="left">TB PATH:-</h3> [project_name.src/sim_1/new/project_name_tb.v] Ex. for  programmable_sequence_detector tb file location is:-"programmable_sequence_detector/programmable_sequence_detector.srcs/sim_1/new/programmable_sequence_detector_tb.v"
 
 
 <h3 align="left">Languages and Tools:</h3>
